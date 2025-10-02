@@ -1,0 +1,21 @@
+
+{
+  "short_name": "Fujiplus",
+  "name": "Fujiplus ERP",
+  "icons": [
+    {
+      "src": "https_//picsum.photos/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https_//picsum.photos/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#ffffff"
+}
